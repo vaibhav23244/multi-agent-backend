@@ -6,3 +6,4 @@ langchain-core
 flask
 flask-cors
 requests
+gunicorn
